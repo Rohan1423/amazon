@@ -114,4 +114,4 @@ export function renderOrderSummary(){
     });
     });
     }
-renderOrderSummary();
+    
